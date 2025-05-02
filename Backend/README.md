@@ -16,17 +16,7 @@ npm install
 
 ---
 
-## 🚀 Step 2: Start the Application
-
-To start the Node.js server:
-
-```bash
-node server.js
-```
-
----
-
-## 🗄️ Step 3: Database Configuration
+## 🗄️ Step 2: Database Configuration
 
 Ensure MySQL is running and configured as follows:
 
@@ -50,6 +40,16 @@ Ensure MySQL is running and configured as follows:
    DB_PASSWORD = 123123
    DB_NAME     = test
    ```
+
+---
+
+## 🚀 Step 3: Start the Application
+
+To start the Node.js server:
+
+```bash
+node server.js
+```
 
 ---
 
